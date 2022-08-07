@@ -1,0 +1,73 @@
+Ako "Carlos! Dito!" 
+
+Carlos "Sandali lang...hah...hah...hihinga lang ako..." enter(Carlos) setBody(Carlos,confused)
+
+Ako "Anong nangyari sa'yo, Carlos? Hahaha. Tumakbo ka papunta dito?" setBody(Carlos,sad)
+
+Carlos "Nung nalaman kong sa Fort Santiago tayo susunod na pupunta," setBody(Carlos,confused)
+"nagmadali na ako pumunta dito."
+"Baka sakali kasing nandito din si Chronis at maabutan natin siya bago siya umalis."
+
+Ako "Ayan, hahaha. Sige, Carlos. Huminga ka muna dyan." setBody(Carlos,sad)
+
+Carlos "Hay..." setBody(Carlos,confused)
+"Ayos na ako." setBody(Carlos,talking)
+"Sa tingin mo, bakit dito tayo pinapunta ni Chronis?"
+
+Ako "Palagay ko, pinapunta tayo dito dahil dito kinulong ang maraming Pilipino noong panahon ng Kastila." setBody(Carlos,neutral)
+"Ang kulungan kung saan pati ang ating bayaning si Jose Rizal ay ikinulong bago siya patayin sa Bagumbayan."
+"Hindi lang kuta ng mga Kastila ang Fort Santiago."
+"Isa rin itong kulungan na nagpahirap sa maraming Pilipino."
+"Maraming namatay sa lugar na ito."
+"Kaya nga hindi pa rin nila binubuksan ang kulungan dati para sa mga bisita."
+
+Carlos "May nahahalata nga ako sa kilos ni Chronis eh." setBody(Carlos,talking)
+"Una, ninakaw niya ang Spoliarium."
+"At dahil may koneksyon ay Spoliarium kay Jose Rizal, pinapunta niya tayo sa Luneta."
+"At ngayon naman, dahil may koneksyon ang Fort Santiago kay Jose Rizal,"
+"pinapunta niya tayo dito Intramuros para marating ang lugar na ito."
+"Kung iisipin natin, ang Spoliarium ang nagbigay inspirasyon kay Rizal para isulat ang Noli Me Tangere."
+"At dito mismo sa kulungan ng Fort Santiago isinulat ni Rizal ang Noli Me Tangere."
+"Sigurado na talaga ako na may gustong ipahiwatig sa Chronis."
+"Hindi ko maisip na pagkakataon lamang na pinapapunta niya tayo sa mga lugar na may koneksyon sa isa't isa."
+
+Ako "Sa totoo lang," setBody(Carlos,neutral)
+"ayan din ang naisip ko simula nung matanggap ko yung papel na may sagot na pagkamakabayan sa Luneta."
+"Matalino si Chronis."
+"Kaya nakakasiguro ako na hindi niya tayo papapuntahin sa mga lugar"
+"na hindi naman magbibigay benepisyo para maabot ang layunin niya."
+"Kaya nga noong may nag-abot sa akin ng papel kanina,"
+"Hindi nako nag-alangan pa na tanggapin ang papel at pumunta sa sinabi ni Chronis"
+"dahil alam kong may patutunguhan itong pagpunta natin."
+
+Carlos "Kung puwede lang harapang tanungin si Chronis eh. Hay..." setBody(Carlos,talking)
+"Sandali lang, detective."
+"Bibili lang ako ng tubig doon. Nauuhaw ako dahil sa pagtakbo ko kanina."
+
+Ako "Sige lang, Carlos. Hintayin kita dito." setBody(Carlos,neutral)
+exit(Carlos)
+
+Luis "Kamusta!" enter(Luis) setBody(Luis,happy) playMusic(NotScience)
+
+Ako "Hulaan ko, may nagpapaabot ng papel?" setBody(Luis,neutral)
+
+Luis "Oh! Paano mo alam? Hahaha" setBody(Luis,happy)
+
+Ako "Hahaha. Sabihin na nating magkakilala kami." setBody(Luis,neutral)
+
+Luis "Ohh, naiintindihan ko. Heto ang papel oh." setBody(Luis,talking)
+"Mauuna na ako at babalik pa ako sa aking trabaho bilang isang tour guide."
+"Magsaya ka sana dito sa Intramuros. Paalam!" setBody(Luis,happy)
+exit(Luis)
+
+Carlos "Nakabalik na ako, detective!" enter(Carlos) setBody(Carlos,happy)
+"Sino iyon?" setBody(Carlos,talking)
+
+Ako "Inutusan iyon ni Chronis na mag-abot ng papel sa akin." setBody(Carlos,neutral)
+
+Carlos "Talaga?" setBody(Carlos,talking)
+"Tara, hanapin na natin ang sagot dyan." setBody(Carlos,happy)
+
+Palaisipan 3.2 "Alamin ang sagot sa 4 Pics 1 Word na ibinigay sa'yo upang makausad sa kuwento!"
+
+

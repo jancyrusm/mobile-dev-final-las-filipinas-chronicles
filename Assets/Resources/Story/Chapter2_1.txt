@@ -1,0 +1,74 @@
+Ako "Hmmm...mukhang mahihirapan tayo sa paghahanap dahil sa dami ng tao." setBody(Carlos,neutral)
+
+Carlos "Detective, mas mabuti siguro kung maghiwalay muna tayo" setBody(Carlos,talking)
+"para malawak ang masakop natin sa paghahanap ng ebidensya."
+"Ako na ang bahalang mag-imbestiga sa monumento ni Rizal."
+
+Ako "Sige, Carlos." setBody(Carlos,neutral)
+"Ako naman ay magtatanong-tanong sa mga tao dito."
+"Balitaan mo agad ako kung may napansin kang kakaiba o may nahanap kang ebidensya."
+
+Carlos "Sige, detective." setBody(Carlos,talking)
+
+Ako "Mag-iingat ka." setBody(Carlos,neutral)
+exit(Carlos)
+
+Patalastas "Habang naghahanap ka ng matatanong, manood at magsaya ka muna sa ilang patalastas!" playSound(ConcreteFootsteps)
+
+Ako "Hmmmm…" exit(Patalastas) 
+"Sino kaya ang pwedeng tanungin?"
+"Aray!" playSound(Collide) playMusic(Symphony1)
+
+Chloe "Hala! Ayos lang po ba kayo?" enter(Chloe) setBody(Chloe,confused) 
+"Pasensya na po, hindi ko po kayo nakita habang tumatakbo."
+"Pasensya na po talaga."
+
+Ako "Hahaha, ‘wag kang mag-alala. Hindi naman ako nasaktan." setBody(Chloe,sad)
+"Ano nga palang pangalan mo?"
+
+Chloe "Ako po si Chloe!" setBody(Chloe,happy)
+"May hinahanap po ba kayo? Mukha po kasi kayong nawawala." setBody(Chloe,talking)
+
+Ako "Halata ba? Hahaha." setBody(Chloe,neutral)
+"Alam mo ba kung ano ang isang detective?"
+
+Chloe "Ah!" setBody(Chloe,happy)
+"Ayun po ba yung mga taong napapanood ko sa telebisyon na laging nag-iimbestiga?" setBody(Chloe,talking)
+
+Ako "Tama ka!" setBody(Chloe,neutral)
+"Sikreto lang natin ito ah" 
+"pero isa akong detective at nasa isa akong sikretong misyon ngayon!"
+
+Chloe "Talaga po ba?!?!" setBody(Chloe,happy)
+"Ako rin po detective! Nasa sikretong misyon din po ako ngayon!"
+
+Ako "Wow! Talaga ba? Ano naman ang sikretong misyon mo, Chloe?" setBody(Chloe,neutral)
+
+Chloe "May nakasalubong po akong manong kanina," setBody(Chloe,talking)
+"at sinabi niya po sa akin na itago ko po nang mabuti yung papel" 
+"na binigay niya hangga't may manghingi na detective!"
+"Sinabi rin po sa akin kanina na bukas pa daw po darating yung detective!" 
+"Sakto nga po kasi babalik po ulit kami dito bukas."
+
+Ako "Huh? Papel? Hmmmm...puwede ko bang makita yung laman ng papel Chloe?" setBody(Chloe,neutral)
+
+Chloe "Uhmmm...heto po oh!" setBody(Chloe,talking)
+
+Ako "Huh? Isa ito sa mga papel na iniiwan ni Chronis." setBody(Chloe,neutral)
+"Nagpakita si Chronis sa batang ito?"
+"Chloe, gusto mo ba akong tulungan sa pagsagot sa papel na ito?" setBody(Chloe,neutral)
+
+Chloe "Talaga po ba detective? Gusto ko po tumulong!" setBody(Chloe,happy)
+
+Ako "Hahaha! Sige, tara na’t hanapin na natin ang sagot dito." 
+
+Palaisipan 2.1 "Alamin ang sagot sa 4 Pics 1 Word na ibinigay sa'yo upang makausad sa kuwento!"
+
+
+
+
+
+
+
+
+

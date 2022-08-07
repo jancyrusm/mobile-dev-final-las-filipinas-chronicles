@@ -1,0 +1,10 @@
+Chronis "Hmmm...nahanap niya lahat ng sagot sa mga iniiwan kong papel..."
+"Hahaha! Magaling! Magaling!"
+"Hindi ko na sana ibabalik yung Spoliarium kapag may kahit isa siyang hindi nakuha na sagot eh..."
+
+enter(Aaron) setBody(Aaron,neutral)
+Aaron "Hmmm..." 
+"Ano kaya ang susunod na kukunin ko?" setBody(Aaron,happy)
+"..." exit(Aaron)
+
+

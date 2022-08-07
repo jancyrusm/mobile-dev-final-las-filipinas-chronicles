@@ -1,0 +1,45 @@
+Ako "Hmmm...1884 nakuha ni Juan Luna ang gintong medalya mula sa Exposicion de Bellas Artes sa Madrid." enter(Carlos) setBody(Carlos,neutral)
+"Tapos, nagsimula naman ang Philippine Revolution o Tagalog War noong 1896." 
+"At pagdating ng 1898, nagwakas na ang pamumuno ng mga Kastila sa Pilipinas."
+
+Carlos "Kung ganoon ang nangyari, ibigsabihin ay ginawa ni Juan Luna ang Spoliarium sa panahon ng Kastila." setBody(Carlos,talking)
+
+Ako "Oo tama ka. Kaya sigurado akong tama din ang sagot natin, noong panahon ng Kastila." setBody(Carlos,neutral)
+"Maraming interpretasyon ang Spoliarium ngunit ang pinakasikat..."
+"ay ang interpretasyong konektado ito sa mga naranasan ng mga Pilipino noong panahon ng Kastila."
+"Sabi nila na ang napuksang mandirigma na hinihila ng kawal sa Spoliarium ay isang larawan ng kamatayan at pang-aapi."
+"Sinisimbolo ng Spoliarium ang madugong nakaraan ng Pilipinas..."
+"ang mga paghihirap ng mga Pilipino sa kamay ng mga sumakop sa Pilipinas." 
+"Hmmm..."
+"Mukhang hindi talaga magiging madali ang kaso natin ngayon ah."
+
+Carlos "Bakit mo naman nasabi yan?" setBody(Carlos,confused)
+
+Ako "Dahil ang nawawalang Spoliarium ay konektado sa kasaysayan ng Pilipinas..." setBody(Carlos,sad)
+"isang kriminal lang ang pumapasok sa isip ko na may kakayahang gumawa nito."
+"Ang problema nga lang ay wala tayong kasiguruhan na siya nga talaga ang nagnakaw ng Spoliarium."
+
+Carlos "Sino ba ang pinaghihinalaan mo, detective?" setBody(Carlos,confused)
+
+Ako "Sigurado akong hindi mo pa naririnig ang pangalan niya dahil baguhan ka pa lang sa trabahong ito." setBody(Carlos,sad)
+"Limang taon na ang nakalipas, may lumabas na isang criminal na nagngangalang Chronis."
+"Matagal na siyang sinusubukang hulihin ng mga pulis..."
+"ngunit masyado siyang matalino dahil naiwasan niya lahat ng pagtatangkang paghuli sa kanya." 
+"Gayunpaman, si Chronis ay madalas magnakaw ng mga bagay na may kinalaman sa kasaysayan ng Pilipinas."
+"Mayroon din siyang ugali na mag-iwan ng mga tula tulad nito na naglalaman ng mensahe."
+"Kung tama ang hinala ko, mahihirapan tayo sa kasong ito."
+
+Carlos "'Wag kang panghinaan ng loob, detective. Magtatagumpay din tayo sa kasong ito." setBody(Carlos,happy)
+
+Ako "Salamat sa pagpapalakas mo ng loob ko, Carlos."
+
+Carlos "Hmmm?" setBody(Carlos,confused)
+"Hala, anong oras na pala." setBody(Carlos,talking)
+"Kumain ka muna tayo ng tanghalian, detective." setBody(Carlos,happy)
+
+Ako "Ang bilis ng oras parang anong oras pa lang kanina ah?"
+"Sige. Magkita nalang tayo ulit dito mamaya."
+exit(Carlos)
+
+Kabanata 1.2 "Sino kaya ang misteryosong kaibigan na tinutukoy dito?"
+

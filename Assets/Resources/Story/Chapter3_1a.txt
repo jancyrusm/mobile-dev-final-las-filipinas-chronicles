@@ -1,0 +1,18 @@
+Ako "Kulungan ang sagot. Hmmm..."
+"Sakto, nasa loob lang ito ng Intramuros."
+"Tawagan ko muna si Carlos para dumiretso na rin siya doon." playSound(Dial)
+
+Carlos(Call) "Bakit ka napatawag? May nahanap kana agad?" playMusic(RunForward)
+
+Ako "Oo. May lumapit sa akin na nagtitinda ng sorbetes kanina at sinabi na may nagpapaabot ng papel."
+"Nahanap ko na yung sagot sa papel kaya tinawagan na kita."
+"Ang susunod nating pupuntahan ay ang kuta ng mga Kastila dati."
+"Pupunta tayo sa lugar na itinayo ng mga Kastila"
+"upang protektahan ang Intramuros mula sa mga dayuhang mananakop at pirata."
+"Kung ang Intramuros ang upuan ng kapangyarihang pangpolitikal, pangmilitar, at pangrelihiyon,"
+"ang lugar na pupuntahan natin ang nagpapatupad na mananatiling sentro ng mga Kastila ang Intramuros."
+"Magkita tayo sa Fort Santiago, Carlos."
+"Doon yung susunod na pupuntahan ni Chronis."
+
+Kabanata 3.2 "Ano kayang malalaman mo tungkol bangungot sa likod ng Fort Santiago?"
+

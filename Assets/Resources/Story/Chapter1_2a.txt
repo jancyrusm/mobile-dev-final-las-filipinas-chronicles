@@ -1,0 +1,33 @@
+Ako "Luneta…luneta…luneta…" enter(Carlos) setBody(Carlos,neutral)
+"Anong mayroon sa Luneta Park at doon susunod na pupunta si Chronis?"
+
+Carlos "Hmmmm…" 
+"Sa tingin ko..." setBody(Carlos,talking)
+"pupunta doon si Chronis dahil may koneksyon ang Luneta kay Jose Rizal"
+"at may koneksyon si Jose Rizal sa Spoliarium"
+"Ang Luneta Park, o mas kilala bilang Rizal Park,"
+"ay isa sa mga makasaysayang lugar dito sa Pilipinas" 
+"dahil dito nangyari ang kaganapan na nagpasiklab sa puso ng mga Pilipino" 
+"na lumaban para sa kalayaan ng bansa." 
+"Ang Luneta ay dating tinatawag na Bagumbayan noong panahon ng mga Kastila," 
+"at sa lugar na ito binaril ang ating bayani na si Jose Rizal noong Disyembre 30, 1896." 
+"Ang pagkamatay ni Jose Rizal ang nagsimula sa rebolusyon ng mga Pilipino laban sa mga Kastila." 
+"Ngunit hindi alam ng karamihan na ang Spoliarium ang naging inspirasyon ni Jose Rizal" 
+"sa pagsulat ng Noli Me Tangere, na kilala din bilang 'The Latin Echo of the Spoliarium.'"
+"Tulad ng pagpinta ni Juan Luna sa Spoliarium para magising ang mga Pilipino sa katotohanan," 
+"nais din ni Jose Rizal na maisulat ang kaniyang sariling Spoliarium"
+"upang makapag-iwan ng kaniyang sariling marka para sa Pilipinas." 
+"Sa madaling salita, si Jose Rizal ang nagtulak sa mga Pilipino para lumaban," 
+"ngunit ang Spoliarium ang nagtulak kay Rizal upang kumilos para sa bayan."
+
+Ako "Ang galing mo talaga, Carlos!" setBody(Carlos,neutral)
+"Hindi man lang pumasok ang ideyang iyan sa isip ko kung hindi dahil sa’yo." 
+"Hmmm...matagal pa bago matapos ang araw, kaya may oras pa tayo para pumunta sa Luneta." 
+"Mas mabuting pumunta na tayo ngayon bago pa tayo ulit malusutan ni Chronis." 
+
+Carlos "Pakihintay na lang ako dito." setBody(Carlos,talking)
+
+Ako "Sige." setBody(Carlos,neutral)
+exit(Carlos)
+
+Kabanata 2.1 "Ano kayang sikretong misyon ang matatagpuan mo?"

@@ -1,0 +1,10 @@
+Madla "Narinig mo ba ang balita?"
+"Naibalik na daw ang pintura ni Juan Luna!"
+
+Michael "Masaya ako at muli ko kayong nakita mga ginoo at binibini!" enter(Michael) setBody(Michael,happy)
+"Alam ko namang nabigla tayong lahat dahil sa mga pangyayari."
+"Ngunit huwag kayong mabahala dahil nandito na ang pinakahihintay natin!"
+"Ipinagmamalaki kong inihahandog sa inyo ang natatanging pintura ni Juan Luna..."
+"Ang Spoliarium!" playSound(Clap)
+
+... "Binabati kita para sa isang mahusay na paglalaro!"

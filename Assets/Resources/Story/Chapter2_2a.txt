@@ -1,0 +1,40 @@
+Ako "Kamusta na si Krisanto, Carlos?" enter(Carlos) setBody(Carlos,neutral)
+
+Carlos "Ayos naman siya." setBody(Carlos,talking)
+"Kumalma na siya pagdating namin sa istasyon."
+"Umuwi rin siya agad pagkatapos kunin ang pahayag niya."
+
+Ako "Mabuti naman." setBody(Carlos,neutral)
+"Nga pala, nakakuha ako ng dalawang papel galing kay Chronis kanina."
+"Yung sagot ng unang papel ay pagkamakabayan."
+"Habang hinahanap ko si Chronis kanina,"
+"may nakabangga akong binata na tinanong ko anong opinyon niya pagdating sa pagkamakabayan."
+"Mula sa sagot niya, naisip ko na baka kinuha ni Chronis ang Spoliarium at nagpuntang Luneta" 
+"para ipakita sa atin na nanganganib na ang kasaysayan ng Pilipinas"
+"dahil maraming ignorante o nakalimot na nito."
+"Hindi ako sigurado kung ito ba talaga ang dahilan sa likod ng mga aksyon ni Chronis,"
+"pero mabuti din na isasaalang-alang natin ang ideyang ito kung sakali na ito nga ang dahilan niya."
+
+Carlos "Kung ganun nga, dapat nating asahan na patuloy pa rin na mag-iiwan ng mga bakas si Chronis" setBody(Carlos,talking)
+"dahil hindi pa niya tuluyang naaabot ang layunin niya."
+"Sigurado ako dito dahil pinapapunta niya tayo ngayon sa Intramuros."
+"Ibigsabihin nito, pagkarating natin doon ay may iiwan na naman siya para sa atin."
+
+Ako "Tama ka. Sana magtagumpay talaga tayong mahanap ang Spoliarium." setBody(Carlos,neutral)
+"Sa tingin ko nga, kaya tayo pinapapunta ni Chronis sa Intramuros"
+"dahil malaki ang naging papel nito noong panahon ng Kastila."
+"Kung iisipin natin, puro tungkol sa kasaysayan ng Pilipinas noong panahon ng mga Kastila"
+"ang binibigay na impormasyon sa atin ni Chronis."
+"Ang Spoliarium ay ginawa noong panahon ng mga Kastila."
+"Si Jose Rizal ay isang bayani noong panahon ng mga Kastila."
+"Kaya palagay ko na ang layunin kung bakit tayo pinapapuntang Intramuros"
+"ay tungkol din sa kasaysayan ng Pilipinas noong panahon ng mga Kastila."
+
+Carlos "Naiintindihan ko ang sinasabi mo, detective." setBody(Carlos,talking)
+"Mapapaisip ka na lang kung ano ba talaga ang gusto makamit ni Chronis."
+"Ah!"
+"Nandito na ang sasakyan natin papuntang Intramuros, detective."
+
+Ako "Sige. Tara na at habulin na ulit si Chronis." setBody(Carlos,neutral)
+
+Kabanata 3.1 "Ano kayang malalaman mo tungkol sa karimlan ng Intramuros?"

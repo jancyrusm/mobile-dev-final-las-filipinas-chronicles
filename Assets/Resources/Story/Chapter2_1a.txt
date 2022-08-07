@@ -1,0 +1,84 @@
+Ako "Hmmm pagkamakabayan..." enter(Chloe) setBody(Chloe,neutral)
+"Chloe, naaalala mo ba kung kailan binigay sa'yo itong papel?"
+
+Chloe "Uhmmm..." setBody(Chloe,talking)
+"Binigay po ni manong sa akin ang papel bago ko po kayo nabangga, detective." setBody(Chloe,talking)
+"Habang nakikipaglaro po kasi ako, tinawag niya po ako at binigay yung papel."
+"Tapos po bumalik din po ako agad para makipaglaro ulit,"
+"at doon ko na po kayo nabangga, detective." 
+
+Ako "Salamat sa pagsagot, Chloe. Naaalala mo rin ba yung itsura ni manong?" setBody(Chloe,neutral)
+
+Chloe "Pagdating naman po sa itsura ni manong, uhmm..." setBody(Chloe,confused)
+"Pasensya na po, pero hindi ko po maalala eh." setBody(Chloe,sad)
+"Ah! Pero po naaalala ko po yung suot niyang damit kasi paboritong kulay ko po yung pantaas niya!" setBody(Chloe,talking)
+"Nakasuot din po ng asul na pantaas at itim na pambaba!"
+
+Ako "Pasensya na kung marami akong tanong sa'yo, pero huling katanungan ko na talaga ito." setBody(Chloe,neutral)
+
+Chloe "Ayos lang po! Ano po yung tanong niyo?" setBody(Chloe,talking)
+
+Ako "Nakita ba ako ng manong na kumausap sa'yo?" setBody(Chloe,neutral)
+
+Chloe "Hmmmm...sa tingin ko po hindi naman po ata." setBody(Chloe,talking)
+"Bago ko po kasi kayo nakabangga ay nakaalis na po siya."
+
+Ako "Maraming salamat, Chloe. Naging malaking tulong ka para sa akin!" setBody(Chloe,neutral)
+
+Chloe "Talaga po? Masaya po ako at natulungan po kita!" setBody(Chloe,happy)
+
+Ako "Hahaha. Ipangako mo sa akin na sa susunod," setBody(Chloe,neutral)
+"hindi ka na lalapit sa kung sino man ang tumawag sa'yo na hindi mo kilala ha?"
+
+Chloe "Pangako po, detective!" setBody(Chloe,happy)
+
+Ako "Sige na't mauuna na ako, Chloe." setBody(Chloe,neutral)
+
+Chloe "Paalam po! Sana maging matagumpay po kayo sa sikretong misyon mo!" setBody(Chloe,happy)
+
+Ako "Mag-ingat ka palagi."
+exit(Chloe)
+
+Carlos(calling) "*ringing" playSound(Ringtone)
+
+Ako "Oh? Tumatawag si Carlos."
+
+Carlos(call) "Kamusta, detective." playMusic(RunForward)
+
+Ako "Kamusta din pabalik, Carlos. Sakto ang pagtawag mo ah." 
+"May balita ba dyan sa monumento?"
+
+Carlos(call) "Sa ngayon, wala pa akong nahahanap na makakatulong sa atin pagdating kay Chronis."
+"Kinausap ko na rin ang mga tao at mga bantay na nakapalibot dito sa monumento,"
+"pero wala din daw silang napansin na kakaiba." 
+"Sinabi mo kanina na sakto ang pagtawag ko?" 
+
+Ako "Oo, sakto ang pagtawag mo kasi dapat tatawagan na rin kita."
+"May nasagap akong impormasyon galing sa isang bata na mismong nilapitan ni Chronis." 
+"Sa madaling salita, nandito si Chronis ngayon sa Luneta."
+"Pakisabihan ang mga awtoridad na magmatyag para sa isang lalaki"
+"na nakasuot ng asul na pantaas at itim na pambaba." 
+"Mas mabuti kung maghahanap tayo ng tahimik."
+"Hindi kasi alam ni Chronis na nandito tayo ngayon sa Luneta."
+
+Carlos(call) "Anong ibig mong sabihin, detective?"
+
+Ako "Batay sa sinabi ng batang nakausap ko kanina,"
+"Binigyan daw siya ni Chronis ng papel, at nalaman ko na ang sagot dito kanina."
+"Tapos sinabihan din daw siya na ibigay iyon sa detective na makakasalubong niya bukas."
+"Kung sinabi sa kaniya ni Chronis na bukas pa tayo makakarating dito sa Luneta,"
+"ibigsabihin na hindi niya inakalang malalaman natin agad kung saan siya pupunta." 
+"Siguro hindi inakala ni Chronis na kilala natin si Cyber kaya nagpakampante siya."
+
+Carlos(call) "Sa madaling salita, ito na ang pagkakataon natin na maisahan si Chronis. Tama ba?"
+
+Ako "Tama."
+"Ikaw na ang bahalang makipag-ugnayan sa mga awtoridad para sa paghahanap natin kay Chronis." 
+"Ako naman ay magtatanong sa mga tao dito kung nakita nila ang lalaking inilarawan ko."
+
+Carlos(call) "Masusunod, detective. Balitaan nalang kita sa mga pangyayari dito."
+
+Ako "Salamat, Carlos."
+
+Kabanata 2.2 "Sino kaya ang binatang tinutukoy dito?"
+

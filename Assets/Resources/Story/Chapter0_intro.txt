@@ -1,0 +1,12 @@
+Michael "Isang magandang pagbati, mga binibini at ginoo!" enter(Michael) setBody(Michael,happy)
+"Sa araw na ito, masasaksihan natin ang natatanging ganda at kwento sa likod ng isa sa mga pinakakilalang pintura sa Pilipinas."
+"Nang dahil sa pinturang ito, nakamit ng isang pintor ang gintong medalya sa Exposicion de Bellas Artes sa Madrid noong 1884."
+"Hindi na ako magpapaligoy-ligoy pa, ipinagmamalaki kong inihahandog sa inyo ang pinakasikat na pintura ni Juan Luna..." 
+"Ang Spoliarium!" playSound(Clap)
+
+Madla "Hala!" setBody(Michael,confused) playMusic(Symphony3)
+"Nasaan na ang pintura ni Juan Luna?"
+"Kalokohan ba ito?"
+"Nasaan na ang Spoliarium!"
+
+Kabanata 1.1 "Magsisimula na ang imbestigasyon sa loob ng museo. Handa ka na ba?"

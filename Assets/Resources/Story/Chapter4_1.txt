@@ -1,0 +1,33 @@
+Ako "Nakalabas na tayong Intramuros, pero hindi na talaga nagparamdam si Chronis." enter(Carlos) setBody(Carlos,sad)
+"Inabot na tayo ng gabi, pero wala pa rin."
+
+Carlos "Oo nga eh." setBody(Carlos,confused)
+"Naghihintay pa naman ako na may mag-abot ulit ng papel sa atin."
+
+Ako "Tawagan ko na ba ulit si Cyber?" setBody(Carlos,neutral)
+
+Carlos "Puwede naman, detective." setBody(Carlos,talking)
+"Hmmm?" setBody(Carlos,neutral)
+"Kakasabi lang natin sa pangalan ni Cyber ah." setBody(Carlos,talking) playSound(Ringtone)
+"Tumatawag na agad siya?"
+
+Dante(Calling) "*ringing" playSound(Ringtone)
+
+Ako "Si sir Dante ang tumatawag. Sandali lang, Carlos."
+
+Dante(Call) "Kamusta kayong dalawa ni Carlos, detective?" playMusic(NotScience)
+
+Ako "Ayos naman po kami, sir. Pauwi na kami ngayon galing Intramuros."
+"Bakit po kayo napatawag, sir?"
+
+Dante(Call) "May ibibigay ako na larawan sa cellphone mo galing kay Chronis."
+"Hindi ko alam kung paano niya nakuha ang number ko"
+"pero tinawagan niya ako kanina at may pinapaabot siyang larawan ng papel na may tula."
+"Sinabi niya din sa akin na malapit nang matapos ang lahat,"
+"at sa huli ay malalaman mo din ang kasagutan sa mga katanungan mo."
+"Pakihanap na agad ang sagot sa binigay ni Chronis na papel, detective."
+"Nararamdaman kong malapit nang matapos ang kaso mong ito."
+
+Ako "Masusunod, sir."
+
+Palaisipan 4.1 "Alamin ang sagot sa 4 Pics 1 Word na ibinigay sa'yo upang makausad sa kuwento!"

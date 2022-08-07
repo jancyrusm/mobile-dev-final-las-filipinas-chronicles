@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Chapter0_intro.unity
+    guid: 01043b66a480c2a40824af96cf72e062
+  - enabled: 1
+    path: Assets/Scenes/Chapter1_1.unity
+    guid: 75c12f44f9401d946871a6a3c336bc5e
+  - enabled: 1
+    path: Assets/Scenes/PanahonNgKastila.unity
+    guid: 5f3010a3193a2024195d1194c43f08f5
+  - enabled: 1
+    path: Assets/Scenes/Chapter1_1a.unity
+    guid: b8f87a9c06b1c064a8f13fb5b74b55d9
+  - enabled: 1
+    path: Assets/Scenes/Chapter1_2.unity
+    guid: b8480d7910059104291800381d690683
+  - enabled: 1
+    path: Assets/Scenes/Luneta.unity
+    guid: 57eeb22bce834cd4e90bca097030f14b
+  - enabled: 1
+    path: Assets/Scenes/Chapter1_2a.unity
+    guid: 9430c6d30788c3b4e8d9d4b98597caf3
+  - enabled: 1
+    path: Assets/Scenes/Chapter2_1.unity
+    guid: 69e9ae9d2a2160e42b951d9281d81dfd
+  - enabled: 1
+    path: Assets/Scenes/Pagkamakabayan.unity
+    guid: d48693dc068c3df45b4b4266a54f82dd
+  - enabled: 1
+    path: Assets/Scenes/Chapter2_1a.unity
+    guid: 0b7faf998a0986348b2d98520df067db
+  - enabled: 1
+    path: Assets/Scenes/Chapter2_2.unity
+    guid: 05039a597c2d52b41a77e3ac30037360
+  - enabled: 1
+    path: Assets/Scenes/Intramuros.unity
+    guid: f10224d1ce66e7e45a87c312d7462fe7
+  - enabled: 1
+    path: Assets/Scenes/Chapter2_2a.unity
+    guid: fe0001bb29a31004c8e2e303cfe831e6
+  - enabled: 1
+    path: Assets/Scenes/Chapter3_1.unity
+    guid: 6da4f1b2c894c58408548f4ceca47b00
+  - enabled: 1
+    path: Assets/Scenes/Kulungan.unity
+    guid: e17dc77d0895e2746991643225323ccf
+  - enabled: 1
+    path: Assets/Scenes/Chapter3_1a.unity
+    guid: 17ca0d7503fa695418e99e50fb1833b2
+  - enabled: 1
+    path: Assets/Scenes/Chapter3_2.unity
+    guid: 7a33ae480277832479545673b30f7560
+  - enabled: 1
+    path: Assets/Scenes/Kapangyarihan.unity
+    guid: 6519a6fd5d35a624db7eb9d272ac7e72
+  - enabled: 1
+    path: Assets/Scenes/Chapter3_2a.unity
+    guid: d3a088531aabf484c9ca10bf0c762e27
+  - enabled: 1
+    path: Assets/Scenes/Chapter4_1.unity
+    guid: 38a1d04b123913e44be066b6bcd00628
+  - enabled: 1
+    path: Assets/Scenes/Simula.unity
+    guid: fd60a8564e94bdb42ab9dec933bb6d59
+  - enabled: 1
+    path: Assets/Scenes/Chapter4_1a.unity
+    guid: b212094d21cfeb04090c035f02e7473c
+  - enabled: 1
+    path: Assets/Scenes/Chapter4_2.unity
+    guid: 65b7840573925254a82514c0d834ffbd
+  - enabled: 1
+    path: Assets/Scenes/Kasaysayan.unity
+    guid: 161ea7e6d6a2e204ebbc903d7afb6aa9
+  - enabled: 1
+    path: Assets/Scenes/Chapter4_2a.unity
+    guid: b2d65e9cf0bf9ff479c9c8a841607333
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: fb95521b5758d0f47ab5de0fcc5494a6
+  - enabled: 1
+    path: Assets/Scenes/Cliffhanger.unity
+    guid: fea717fcceb375642839cbbb625ac062
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 90f5fd08594f6314286db00248382ac0, type: 2}

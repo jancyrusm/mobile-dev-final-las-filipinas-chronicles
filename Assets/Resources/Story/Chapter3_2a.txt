@@ -1,0 +1,30 @@
+Carlos "Paano naging kapangyarihan yung sagot, detective?" enter(Carlos) setBody(Carlos,confused)
+
+Ako "Hindi man alam ng karamihan," setBody(Carlos,neutral)
+"pero ang Intramuros ang nagsilbing upuan ng gobyerno ng mga Kastila simula 1571 hanggang 1898."
+"Sa madaling salita,"
+"ang Intramuros ang naging upuan ng politikal na kapangyarihan ng mga Kastila noon."
+"Dagdag pa dito, ang Intramuros ang sentro ng relihiyon, edukasyon, ekonomiya sa Pilipinas noon."
+"Ibigsabihin nito,"
+"ang Intramuros ang sumisimbolo sa kapangyarihan na hawak ng mga Kastila noon sa Pilipinas."
+"Dito sa loob ng Intramuros nakatira ang mga makapangyarihang Kastila."
+"At namumuhay silang payapa at protektado ng nakapalibot na pader."
+"Pero kabaliktaran sa mga Kastila, ang mga Pilipino naman ay naghihirap sa labas ng pader ng Intramuros."
+"Kung titignan natin,"
+"ang pader ng Intramuros ang nagsisilbing hati"
+"upang masiguro na ang katayuan sa lipunan ng mga Kastila at Pilipino ay mananatili."
+
+Carlos "Ahhh, naiintindihan ko na." setBody(Carlos,talking)
+"salamat sa pagpapaliwanag, detective."
+"Pero nagtataka ako ngayon, bakit hindi lugar yung sagot sa mensahe ni Chronis?" setBody(Carlos,confused)
+"Ibigsabihin ba nito na wala na tayong susunod na pupuntahan?"
+
+Ako "Hindi ko rin alam eh." setBody(Carlos,neutral)
+"Kaya nga nababahala din ako ngayon dahil tanging mga iniiwan lang ni Chronis" 
+"yung nakukuha nating impormasyon tungkol sa kaso ng Spoliarium."
+"Ano na kaya ang dapat nating gawin ngayon? Hay..."
+
+Kabanata 4.1 "Bakit kaya tumawag ang hepe?"
+
+
+

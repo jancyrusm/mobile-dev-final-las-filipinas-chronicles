@@ -1,0 +1,14 @@
+Ako "Simula?" enter(Carlos) setBody(Carlos,neutral)
+"Anong tinutukoy niya sa simula?"
+"Simula ng ano? Kastila? Pilipinas?"
+
+Carlos "simula...hmmm..." setBody(Carlos,neutral)
+"Detective, alam ko na kung anong simula ang tinutukoy niya." setBody(Carlos,talking)
+"Isipin mo lang kung paano ba nagsimula itong sitwasyon natin kay Chronis."
+
+Ako "...yung Spoliarium..." setBody(Carlos,neutral)
+
+Carlos "Tama! Sa isang lugar lang naman nagsimula itong kaso natin." setBody(Carlos,talking)
+"Oras na para bumalik tayo sa pinagsimulan ng lahat, sa National Museum of Fine Arts." setBody(Carlos,talking)
+
+Kabanata 4.2 "Ano kayang matatagpuan mo sa lugar na ito?"

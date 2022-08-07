@@ -1,0 +1,120 @@
+Dante "Nakumpirmang nawawala ang Spoliarium ni Juan Luna dito sa National Museum of Fine Arts kaninang alas-dyes ng umaga." enter(Dante) setBody(Dante,talking)
+"Ang pagkawala ng Spoliarium ay hindi isang simpleng kaso dahil isa ito sa mga pambansang kayamanan ng Pilipinas."
+"Tinawag kita ngayon sa kasong ito dahil alam kong isa ka sa pinakamagaling kong tauhan."
+
+Ako "Ako lang ba mag-isa ang mapupunta sa kasong ito?" setBody(Dante,neutral)
+
+Dante "‘Wag kang mag-alala dahil bibigyan kita ng makakasama mo sa imbestigasyon na ito." setBody(Dante,talking)
+"Ang pangalan ng makakasama mo ay Carlos. Isang rin siyang imbestigador katulad mo."
+"Alam kong hindi magiging madali ang imbestigasyon na ito, ngunit hangad kong magtagumpay kayong dalawa."
+
+Ako "'Wag kayong mag-alala sa amin, sir. Hindi namin kayo bibiguin." setBody(Dante,neutral)
+
+Dante "Panghahawakan kita sa salita mo, detective." setBody(Dante,talking)
+"Pakihintay nalang muna si Carlos dito at may aasikasuhin pa ako."
+
+Ako "Salamat sa tiwala mo, sir!" setBody(Dante,neutral)
+
+Dante "Sige na at mauuna na ako. Magpapakalunod muna ako sa tambak nating trabaho. Hay." setBody(Dante,frustrated)
+
+Ako "Hahaha. Sige na po, sir. Mag-iingat po kayo." 
+exit(Dante)
+
+Carlos "Kamusta!" enter(Carlos) setBody(Carlos,happy)
+"Alam kong pinakilala na ako ni sir Dante kanina pero hayaan mo akong magpakilala ng pormal."
+"Ako nga pala si Carlos, isang taon nang nagtratrabaho bilang isang imbestigador."
+"Alam kong hindi maganda ang sitwasyon natin ngayon dahil sa pagkawala ng Spoliarium..."
+"pero ikinagagalak kitang makilala at makatrabaho"
+
+Ako "Ikinagagalak din kitang makilala at makatrabaho!"
+"Bago tayo magsimula, anong alam mo sa kasong ito?" 
+
+Carlos "Hmmmm..." setBody(Carlos,neutral)
+"Ayon sa nasagap ko, mayroon dapat eksibit ng Spoliarium dito sa National Museum of Fine Arts kanina." setBody(Carlos,talking) 
+"pero noong binuksan na ang kurtina para ipakita ang pintura, wala na ito sa dapat na puwesto nito."
+
+Ako "Sa maikling salita, wala pa tayong kahit isang impormasyon sa totoong nangyari." setBody(Carlos,neutral)
+"Hmmmm…sige."
+"Kukunin ko muna ang pahayag ng mga nasa eksibit kanina." 
+"Ikaw, ano ang gagawin mo?"
+
+Carlos "Sasamahan ko naman ang mga pulis para makahanap ng maaaring bakas na naiwan para sa kasong ito."  setBody(Carlos,talking)
+"Lalapit ako sa'yo kapag may nahanap kaming kakaiba."
+
+Ako "Sige." setBody(Carlos,neutral)
+"Magkita nalang ulit tayo mamaya." 
+exit(Carlos)
+
+Patalastas "Habang naglalakad ka papunta sa tauhan ng museo, manood at magsaya ka muna sa ilang patalastas!" playSound(HallwayFootsteps)
+
+Ako "Anong pangalan mo at papel mo sa eksibit kanina?" exit(Patalastas) enter(Michael) setBody(Michael,neutral)
+
+Michael "Ang pangalan ko ay Michael at ako ang host kanina sa eksibit." setBody(Michael,talking)
+
+Ako "Anong alam mo sa kasong ito? Pakisimulan sa pinakasimula ng eksibit." setBody(Michael,neutral)
+
+Michael "Mayroon kaming eksibit para sa pintura ni Juan Luna na Spoliarium." setBody(Michael,confused)
+"Ang eksibit ay pormal na nagsimula kaninang alas-nuwebe ng umaga."
+"Dahil nga eksibit ang programa kanina..."
+"inuna naming ipinakita ang ibang pintura at ang Spoliarium naman ay sa pinakahuli pa ng eksibit ipapakita."
+"Pagpatak ng alas-dyes ng umaga, sinenyasan ko ang ibang manggagawa na buksan na ang kurtinang nakatakip sa Spoliarium."
+"Ngunit laking gulat ko na wala ang pintura sa likod ng kurtina." 
+
+Ako "Bago ko simulan ang susunod kong tanong sa’yo..." setBody(Michael,sad)
+"pakitandaan na ang mga katanungan ko sa’yo ay hindi dahil inaakusahan kita..." 
+"ngunit dahil importante ang mga ito para sa tagumpay ng imbestigasyon na ito."
+
+Michael "Naiintindihan ko po. Alam ko naman na ginagawa mo lang ang iyong trabaho." setBody(Michael,happy)
+
+Ako "Salamat."
+"Para sa susunod kong katanungan, nasaan ka bago mangyari ang pagkawala ng pintura?" setBody(Michael,neutral)
+
+Michael "Nandito na ako sa museo kanina pang madaling araw para tumulong na ihanda ang lugar na gaganapan ng eksibit." setBody(Michael,talking)
+"Sigurado akong nandito pa yung Spoliarium kaninang umaga dahil ako ang tumiyak na lahat ng pintura ay nasa tamang puwesto."
+"At nang masiguro ko na ayos na ang lahat, tinakpan na namin ang Spoliarium ng kurtina dahil gusto naming sorpresahin ang madla."
+"Dahil sa ako ang tagapagsalita para sa eksibit kanina..."
+"ang tanging ginawa ko lamang ay aliwin ang madla upang hindi sila mainip."
+
+Ako "May napansin ka bang kakaiba kanina? O 'di kaya may nakita kang tao na kahina-hinala kumilos?" setBody(Michael,neutral)
+
+Michael "Pasensya na pero wala akong napansin kanina." setBody(Michael,confused)
+"Kapag nagsasalita kasi ako sa harap ng mga tao ay hindi ko na napapansin kung anong nangyayari sa paligid ko." 
+"Nakatuon kasi ang pansin ko sa pagpapaliwanag ng mga pintura kanina."
+"Hindi ko talaga alam kung ano ang nangyari at biglang naglaho yung Spoliarium."
+
+Ako "‘Wag kang mag-alala, naiintindihan naman kita." setBody(Michael,sad)
+"Salamat pa rin sa oras mo Michael."
+
+Michael "Maraming salamat din, detective!" setBody(Michael,happy) 
+"Puwede ba akong magsabi ng kahilingan sa'yo?" setBody(Michael,talking)
+
+Ako "Ano iyon?" setBody(Michael,neutral)
+
+Michael "Paki-usap, pakihanap agad ang Spoliarium dahil mahalaga ito sa kasaysayan ng Pilipinas." setBody(Michael,angry)
+"Alam kong para sa iba ay isa lamang itong simpleng pintura."
+"Pero bilang Pilipino, alam ko na malaki ang naging papel ng Spoliarium sa kasaysayan ng ating bansa."
+"Kaya hangad ko na magtagumpay ka sa kasong ito."
+
+Ako "Huwag kang mag-alala, Michael." setBody(Michael,neutral)
+"Gagawin ko lahat ng makakaya ko para mahanap ang nawawalang Spoliarium." 
+
+Michael "Maraming salamat, detective." setBody(Michael,happy)
+"Nawa'y maging maganda pa rin ang araw mo." 
+
+Ako "Salamat din, Michael."
+exit(Michael)
+
+Ako "Hay…" 
+"Kahit nakuha ko na ang pahayag ni Michael, kulang pa rin ang impormasyon namin para umusad sa kasong ito." playSound(HallwayFootsteps)
+"Hmmm?"
+
+Ako "Oh ikaw pala iyon." enter(Carlos) setBody(Carlos,neutral)
+"Kamusta, Carlos? May natagpuan ba kayo?"
+
+Carlos "May nakita kaming papel na nakaipit sa kurtinang tumakip sa Spoliarium." setBody(Carlos,talking)
+"Nabuksan ko yung papel kanina at may laman itong isang tula at apat na larawan." 
+"Sinubukan kong alamin kanina kung anong ibigsabihin ng nakasulat sa papel, pero hindi ko ito makuha." 
+"Mas mabuti na buksan mo rin ito, baka mas may progreso ka kaysa sa akin." 
+exit(Carlos)
+
+Palaisipan 1.1 "Alamin ang sagot sa 4 Pics 1 Word na ibinigay sa'yo upang makausad sa kuwento!"

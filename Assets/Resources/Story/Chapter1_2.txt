@@ -1,0 +1,50 @@
+Ako "Kamusta ang tanghalian, Carlos?" enter(Carlos) setBody(Carlos,neutral)
+
+Carlos "Ayos naman. Nabusog naman ako kahit papaano." setBody(Carlos,talking)
+"Hmmmm?" playSound(Ringtone) setBody(Carlos,neutral)
+"Kaninong cellphone iyon?" setBody(Carlos,talking)
+
+Ako "Sandali...sa akin ata iyon." setBody(Carlos,neutral)
+"Pasensya na, Carlos. Sagutin ko muna ito"
+
+Carlos "Sige lang." setBody(Carlos,talking)
+"Alis muna ako para masagot mo yan ng pribado." 
+
+Ako "Salamat, Carlos." setBody(Carlos,neutral)
+exit(Carlos)
+
+Unknown(calling) "*ringing" playSound(Ringtone)
+
+Ako "Hmmm...di ko alam kung kaninong cellphone number ito."
+"Hello? Sino ito?"
+
+Cyber(call) "Grabe ka naman makasakit ng damdamin, detective!!!" playMusic(Symphony1)
+"Hindi mo na naman nilagay cellphone number ko sa contacts mo?"
+
+Ako "...Cyber?"
+
+Cyber(call) "Hindi...hindi si Cyber ‘to. Tsk."
+"Tinawagan pa man din kita dahil sa kabutihan ng puso ko. Hay nako!"
+"'Di bale. Narinig kong may bago kang kaso? At may hinala kang si Chronis ang may gawa?"
+
+Ako "...Paano mo nalaman agad yan? Kakasabi ko palang niyan kay Carlos ah?"
+
+Cyber(call) "Hellooo? Sino ba sa tingin mo ang kausap mo?" 
+"Informant mo na ako simula’t una palang, wala ka bang bilib sa kakayahan ko?"
+"Hay..."
+
+Ako "Pasensya na...'wag ka na magtampo."
+
+Cyber(call) "Hmp, ito na nga." 
+"Tinawagan kita dahil may maibibigay akong importanteng impormasyon na makakatulong tungkol sa kaso mo."
+"Dahil sa isa akong underground informant, may mga balita akong nasasagap tungkol kay Chronis."
+"Alam naman nating dalawa na madulas si Chronis, mahihirapan ka sa paghuli sa kanya." 
+"Pero dahil mahusay ako, alam ko kung saan siya susunod na pupunta." 
+"Pakitignan nalang sa cellphone mo yung binigay ko."
+
+Ako "Huh? Bakit katulad ng mga papel na iniiwan ni Chronis yung binigay mo sa akin?"
+
+Cyber(call) "Mahilig ka sa paghahanap ng sagot diba? Edi ayan, lutasin mo. Hahaha!"
+"Goodluck sa'yo, detective."
+
+Palaisipan 1.2 "Alamin ang sagot sa 4 Pics 1 Word na ibinigay sa'yo upang makausad sa kuwento!"

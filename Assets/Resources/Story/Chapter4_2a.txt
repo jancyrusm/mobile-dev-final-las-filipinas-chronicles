@@ -1,0 +1,10 @@
+Ako "Tama nga ang hinala ko." 
+"Ang tanging layunin ni Chronis dito ay magbigay mensahe sa mga Pilipino."
+"Hindi kinuha ni Chronis ang Spoliarium dahil gusto niya itong ibenta,"
+"ngunit gusto niya lang ipaalala ang kahalagahan ng kasaysayan ng Pilipinas sa ating mga Pilipino."
+
+Carlos "Detective!" enter(Carlos) setBody(Carlos,happy)
+"Tumawag sa akin si sir Dante!"
+"Sinabi niya sa akin na nahanap na daw ang Spoliarium sa National Museum of Natural History!"
+
+Katapusan "Tapos na ang kaso sa nawawalang Spoliarium ni Juan Luna!"

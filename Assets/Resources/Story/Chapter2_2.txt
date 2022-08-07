@@ -1,0 +1,133 @@
+Ako "Kanina pa ako naglalakad at nagtatanong, pero wala akong makitang tao na naka-ayon sa sinabi ni Chloe." playSound(ConcreteFootsteps)
+"Tsk. Wala rin akong kasiguruhan na nandito pa si Chronis sa Luneta."
+"Pagkamakabayan, huh? Bakit kaya? Hindi ko maintindihan, ano ba talagang gustong gawin ni Chronis."
+"Ah!" playSound(Collide) playMusic(NotScience)
+
+Aaron "Pasensya na po...ayos lang po ba kayo?" enter(Aaron) setBody(Aaron,talking)
+
+Ako "Huwag kang mag-alala, ayos lang ako. Anong pangalan mo?" setBody(Aaron,sad)
+
+Aaron "Aaron po..." setBody(Aaron,talking)
+
+Ako "Ayos kalang din ba, Aaron? Medyo malakas din ang pagkabangga ko sayo." setBody(Aaron,sad)
+"Pasensya ka na rin, hindi ako nakatingin sa dinadaanan ko."
+"May iniisip lang. Hay."
+
+Aaron "Ayos lang din po ako. Salamat po sa pag-aalala niyo." setBody(Aaron,happy)
+"Uhm, paumanhin po pero narinig ko po kayong nagsabi ng pagkamakabayan." setBody(Aaron,talking) 
+"May maitutulong po ba ako sa inyo? Mukha po kasi kayong problemado."
+
+Ako "Kung ganun...puwede ko ba mahingi ang opinyon mo?" setBody(Aaron,neutral)
+
+Aaron "Puwedeng-puwede po!" setBody(Aaron,happy)
+
+Ako "Hmmm...para sayo, ano ang pagkamakabayan?" setBody(Aaron,neutral)
+"Sang-ayon ka ba na nagkukulang dito ang mga Pilipino?"
+
+Aaron "Para po sa akin, ang pagkamakabayan ay ang pagmamahal at pagpapahalaga natin sa ating bansa." setBody(Aaron,talking)
+"Ibigsabihin po nito na bilang isang makabayang Pilipino," 
+"may responsibilidad tayo na buksan ang ating isip, mata, puso, at tainga sa para sa ikabubuti ng Pilipinas."
+"Sa totoo lang po, sa napapansin ko po ngayon sa Pilipinas,"
+"unti-unti nang nawawala ang pagpapahalaga ng mga Pilipino sa pagiging makabayan."
+"Halimbawa po, dito sa Luneta, maraming nagpupunta dito para pumasyal"
+"pero marami din sa kanila ang walang alam tungkol sa mga mahahalagang kaganapan na nangyari sa lugar na ito." 
+"Hindi alam ng karamihan na ang pagkamatay ni Rizal dito sa Luneta ang dahilan kung bakit nagsimulang magrebelyon"
+"ang mga Pilipino laban sa mga Kastila pagkalipas ng napakahabang panahon." 
+"Hindi rin alam ng karamihan na dito sa Luneta namatay ang 13 Martir ng Bagumbayan dahil lamang sa 
+"nakikipagtulungan sila sa mga Katipunan noong nagrebelyon ang Pilipinas laban sa mga Kastila."
+"Napakayaman sa kasaysayan ng Pilipinas ang lugar na ito ngunit hindi iyon alam ng lahat ng tao"
+"dahil hindi talaga nila alam ito o sadyanng kinalimutan nila ang pinagdaanan ng mga Pilipino."
+"Ang Pilipinas ay may madugong nakaraan sa kamay ng mga sumakop sa bansa natin."
+"Kaya mahalaga sa akin ang pagiging makabayan dahil ibigsabihin nito na binibigyan halaga ko ang nakaraan"
+"bilang isang aral at paalala sa ating mga Pilipino."
+
+Ako "Salamat sa sagot mo, Aaron. Medyo nalinawan na ako sa sagot na hinahanap ko." setBody(Aaron,neutral)
+
+Aaron "Pasensya na po kung mahaba po ang sagot ko." setBody(Aaron,talking)
+"Sadyang madamdamin lang po talaga ako pagdating sa mga ganitong paksa."
+
+Ako "'Wag ka magbigay pasensya. Nakatulong ka sa akin." setBody(Aaron,sad)
+
+Aaron "Masaya po akong malaman yan." setBody(Aaron,happy)
+"Sige na po, mauuna na po ako. Baka po hinahanap na ako ng kapatid ko." setBody(Aaron,talking)
+
+Ako "Sige, Aaron. Ingat ka. Pupuntahan ko na rin ang kasamahan ko." setBody(Aaron,neutral)
+exit(Aaron)
+
+Patalastas "Habang naglalakad ka papunta kay Carlos, manood at magsaya ka muna sa ilang patalastas!" playSound(ConcreteFootsteps)
+
+Ako "Hmmm?" playSound(Running) exit(Patalastas)
+"Sino yung tumatakbo papalapit sa akin?"
+"Aray!" playSound(Collide) playMusic(RunForward)
+
+Krisanto "..." enter(Krisanto) enter(Krisanto) setBody(Krisanto,sad)
+
+Ako "Huh? Asul na pantaas at itim na pambaba..." setBody(Krisanto,sad)
+
+Krisanto "Pasensya na! Nagmamadali kasi ako." setBody(Krisanto,confused)
+
+Ako "Sandali! Bakit ka mukhang takot? Ayos ka lang ba?" setBody(Krisanto,sad)
+
+Krisanto "Pakiusap, hayaan mo na akong umalis!" setBody(Krisanto,confused)
+"May kailangan ako hanapin. Kung hindi, mananagot ang buhay ko!"
+
+Ako "Anong ibig mong sabihin?" setBody(Krisanto,sad)
+
+Krisanto "Sinabihan niya ako na maghanap ng detective." setBody(Krisanto,confused)
+"Kailangan kong maghanap ng isang detective!"
+
+Ako "Isa akong detective. Pangakong nagsasabi ako ng totoo." setBody(Krisanto,sad)
+"Kaya paumanhin, kumalma ka muna."
+"Ano ang pangalan mo?"
+
+Krisanto "Ako si Krisanto. Pakiusap, tulungan mo ako!" setBody(Krisanto,confused)
+
+Ako "Saan kita matutulungan? Puwede mo sabihin sa akin kung anong nangyari." setBody(Krisanto,sad)
+"Ako ang bahala sa'yo"
+
+Krisanto "Habang nagtitinda ako ng lobo dito sa Luneta," setBody(Krisanto,confused)
+"biglang may humablot na lalaki sa akin papasok sa isang liblib na lugar"
+"at pinilit akong makipagpalit na kasuotan sa kaniya!"
+"Hindi ko alam kung anong gusto niya,"
+"pero sinabihan niya ako na tumakbo sa diretsong ito at maghanap ng isang detective."
+"Kapag hindi ko daw ito ginawa ay sisirain niya ang buhay ko!"
+"Sinabi din niya sa akin na ipaabot ko daw sa detective na makikita ko"
+"ang mensahe niya at ang papel na binigay niya."
+"Heto ang papel oh. At pinapaabot niya sa'yo na alam niya daw na alam mong nandito siya."
+"Hindi na daw mauulit ang ganitong pagkakamali niya."
+
+Ako "Hmmm...sige." setBody(Krisanto,sad)
+"Ibubulsa ko muna itong papel na ito dahil may kinalaman ito sa kaso na inaasikaso ko ngayon."
+"May sinabi ba siyang pangalan kung sino siya?"
+
+Krisanto "Sinabi niya lang sa akin na siya si Chronis!" setBody(Krisanto,confused)
+
+Ako "Hay. Alam kong hindi lahat ay kilala si Chronis kaya alam kong nagsasabi ka ng totoo." setBody(Krisanto,sad)
+"Ang humablot sa'yo ay isang kriminal na matagal na naming sinusubukang hulihin."
+"Nakita mo ba ang mukha niya?"
+
+Krisanto "Pasensya na. Hindi ko nakita ang mukha niya." setBody(Krisanto,confused)
+
+Ako "Sige. 'Wag kang magalala, hindi ko hahayaang lapitan ka ulit ni Chronis." setBody(Krisanto,sad)
+exit(Krisanto)
+
+Carlos "Anong mayroon dito?" enter(Carlos) setBody(Carlos,confused)
+
+Ako "Carlos! Sakto at nandito ka na." setBody(Carlos,neutral)
+"Papunta na talaga ako sa monumento kaso may nakasalubong ako na nilapitan na naman ni Chronis."
+"Wala na si Chronis dito sa Luneta kaya ipatigil mo na ang paghahanap."
+"Nalaman ni Chronis na alam nating nandito siya kaya umalis siya kaagad" 
+"at ginamit itong si Krisanto para ipahatid sa akin ang mensahe niya."
+"Pakiusap, pakihatid naman si Krisanto sa istasyon ng mga pulis para makuha ang pahayag niya."
+"Hahanapin ko muna ang sagot dito sa bagong papel na ipinabigay ni Chronis."
+
+Carlos "Sige, ako na ang bahala kay Krisanto." setBody(Carlos,talking)
+"Tara na, Krisanto. Mas ligtas ka sa pupuntahan natin."
+exit(Carlos) enter(Krisanto)
+
+Krisanto "Maraming salamat sa inyong dalawa!" setBody(Krisanto,happy)
+
+Ako "Walang anuman. Ingat ka."
+exit(Krisanto)
+
+Palaisipan 2.2 "Alamin ang sagot sa 4 Pics 1 Word na ibinigay sa'yo upang makausad sa kuwento!"

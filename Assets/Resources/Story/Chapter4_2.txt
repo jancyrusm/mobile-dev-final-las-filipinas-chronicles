@@ -1,0 +1,40 @@
+Carlos "Detective, puntahan ko muna yung mga tauhan dito para magtanong kung may napansin silang kakaiba." enter(Carlos) setBody(Carlos,talking)
+
+Ako "Sige lang, Carlos." setBody(Carlos,neutral)
+"Balak ko namang balikan yung dapat na puwesto ng Spoliarium dito sa museo."
+"Naisip ko kasi na kung sa simula tayo pinapapunta ni Chronis, baka doon siya nag-iwan ng panibagong mensahe para sa atin."
+
+Carlos "Sige. Magkita nalang ulit tayo mamaya." setBody(Carlos,talking)
+
+Ako "Balitaan nalang din kita kung may nahanap ako." setBody(Carlos,neutral)
+exit(Carlos)
+
+Ako "Hmmm?"
+"Sino iyong naglalakad papunta sa akin?" playSound(HallwayFootsteps)
+
+Michael "Detective!" enter(Michael) setBody(Michael,talking)
+
+Ako "Oh! Michael, kamusta kana?" setBody(Michael,happy)
+
+Michael "Ayos lang naman ako. Nandito kaba para sa kaso?" setBody(Michael,talking)
+
+Ako "Oo." setBody(Michael,neutral)
+"May napansin ka bang kakaiba dito sa museo?"
+"Kunwari, isang papel na may tula?"
+
+Michael "Hmmm...parang mayroon akong napulot na ganyan kanina." setBody(Michael,confused)
+"Teka nasa bulsa ko ata iyon..." setBody(Michael,talking)
+"Ah! Ito ba yung tinutukoy mo?" setBody(Michael,happy)
+
+Ako "Oo! Iyan nga!" setBody(Michael,neutral)
+"Maraming salamat, Michael! importante kasi iyan para sa kasong ito."
+
+Michael "Nako! Buti nalang at hindi ko pa naitapon yan. Akala ko pa naman basura lang iyan." setBody(Michael,talking)
+"Sige na, detective. Hindi na muna kita gagambalahin para makapagtrabaho ka ng maayos."
+"Masaya ako na nagkita ulit tayo!" setBody(Michael,happy)
+
+Ako "Hahaha. Masaya din ako na nagkasalubong ulit tayo. Ingat ka!" 
+exit(Michael)
+
+Palaisipan 4.2 "Alamin ang sagot sa 4 Pics 1 Word na ibinigay sa'yo upang makausad sa kuwento!"
+

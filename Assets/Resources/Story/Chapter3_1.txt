@@ -1,0 +1,37 @@
+Ako "Sa wakas, nandito na tayo sa Intramuros." enter(Carlos) setBody(Carlos,neutral)
+"Dating gawi tayo, Carlos."
+"Maghiwalay tayo sa paghahanap ng impormasyon at magkita nalang ulit tayo para pag-usapan yung mga nahanap natin."
+
+Carlos "Sige lang." setBody(Carlos,talking)
+"Mauuna na akong maghanap."
+"Ingat ka, detective."
+
+Ako "Ingat ka rin, Carlos." setBody(Carlos,neutral)
+exit(Carlos)
+
+Ako "Hmmm...maglalakad-lakad na muna ako hanggang sa may makakasalubong akong tao" 
+"na inutusan ni Chronis na mag-abot ng papel sa akin tulad ng sa Luneta."
+"Sigurado naman ako na magbibigay ulit si Chronis ng papel. Ang tanong nga lang ay kung kailan at sino ang mag-aabot."
+
+Patalastas "Habang naglalakad-lakad ka, manood at magsaya ka muna sa ilang patalastas!" playSound(ConcreteFootsteps)
+
+Ako "Wala pa ring lumalapit sa aking hanggang ngayon." exit(Patalastas)
+"Mali ba ang hinala ko?"
+
+Jomar "Kamusta!" enter(Jomar) setBody(Jomar,happy) playMusic(NotScience)
+"Paumanhin sa tanong ko. Pero isa ka bang detective?"
+
+Ako "Oo, isa nga akong detective." setBody(Jomar,neutral)
+"Anong maitutulong ko sa'yo?"
+
+Jomar "Ah! Hindi ko kailangan ng tulong." setBody(Jomar,happy)
+"Ako nga pala si Jomar at nagtitinda ako ng sorbetes dito sa Intramuros."
+"Mayroon kasing lalaking bumili ng sorbetes sa akin kanina at nagpaiwan ng papel."
+"Sabi niya na ibigay ko daw sayo yung papel pagkaalis niya."
+"Ayaw niya atang makita mo siya kaya sa akin nalang niya pinaabot."
+
+Ako "Ahhh. Salamat, Jomar." setBody(Jomar,neutral)
+
+Jomar "Walang anuman." setBody(Jomar,happy)
+
+Palaisipan 3.1 "Alamin ang sagot sa 4 Pics 1 Word na ibinigay sa'yo upang makausad sa kuwento!"
