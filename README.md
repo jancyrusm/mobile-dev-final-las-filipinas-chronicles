@@ -1,2 +1,2 @@
-# mobile-dev-final-las-filipinas-chronicles
+# Las Felipinas Chronicles
  Final Requirement for CET4
