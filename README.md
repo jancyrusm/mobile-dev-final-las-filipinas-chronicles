@@ -31,7 +31,7 @@ the Philippines.
 
 ### Splash Screen
 
-![Splash Screen](LFC_readme\SplashScreen.png "Splash Screen")
+![Splash Screen](LFC_readme/SplashScreen.png "Splash Screen")
 
 ![Splash Screen 1](LFC_readme\SplashScreen1.png "Splash Screen 1")
 
