@@ -33,19 +33,19 @@ the Philippines.
 
 ![Splash Screen](LFC_readme/SplashScreen.png "Splash Screen")
 
-![Splash Screen 1](LFC_readme\SplashScreen1.png "Splash Screen 1")
+![Splash Screen 1](LFC_readme/SplashScreen1.png "Splash Screen 1")
 
 ### Main Menu
 
-![Main Menu](LFC_readme\MainMenu.png "Main Menu")
+![Main Menu](LFC_readme/MainMenu.png "Main Menu")
 
 
 ### Dialogue
 
-![Dialogue](LFC_readme\Dialogue.png "Dialogue")
+![Dialogue](LFC_readme/Dialogue.png "Dialogue")
 
 ### Gameplay
 
-![Gameplay](LFC_readme\Gameplay1.png "Gameplay 1")
+![Gameplay](LFC_readme/Gameplay1.png "Gameplay 1")
 
-![Gameplay](LFC_readme\Gameplay2.png "Gameplay 2")
+![Gameplay](LFC_readme/Gameplay2.png "Gameplay 2")
